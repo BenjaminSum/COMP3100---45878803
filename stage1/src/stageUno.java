@@ -1,10 +1,8 @@
-package clientTest;
-
 import java.io.*;
 import java.net.Socket;
 import java.util.ArrayList;
 
-public class App {
+public class stageUno {
     public static void main(String args[]) throws IOException {
         // set up connection
         Socket s = new Socket("localhost", 50000);
