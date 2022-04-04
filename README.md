@@ -2,7 +2,9 @@
 
 ## Overview
 
+The task of this project is to design and implement the client version of a client-server simulation. This task will act as a job dispatcher using the Largest-Round-Robin (LRR) algorithm.
+
 ##  Running Simulation
 
-* Run Server Side: <mark> ./ds-server</mark>
-* Run Client Side (The code with this repository):  <mark> java stageUno.java</mark>
+* Run Server Side: <mark>$ ./ds-server</mark>
+* Run Client Side (The code with this repository):  <mark>$ java stageUno.java</mark>
