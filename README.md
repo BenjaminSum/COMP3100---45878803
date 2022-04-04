@@ -4,5 +4,5 @@
 
 ##  Running Simulation
 
-1. Run Server Side: $./ds-server
-2. Run Client Side (The code with this repository): $java stageUno.java
+* Run Server Side: <cite> $ ./ds-server </cite>
+* Run Client Side (The code with this repository): <cite> $ java stageUno.java </cite>
